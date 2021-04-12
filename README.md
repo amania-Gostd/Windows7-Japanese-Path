@@ -16,4 +16,4 @@ bcdedit /set {default} locale ja-JP
 これにて日本語化は終了です
 リカバリーモードは日本語化で来ませんがそこは各自でなんとかしてください
 # ダウンロード
-https://www.dropbox.com/s/gn5dz09bav59j3x/Windows7%20japanesehack.zip?dl=0
+このサイトからドウンロードし実行するとソフトのダウンロード先リンクに飛びます
